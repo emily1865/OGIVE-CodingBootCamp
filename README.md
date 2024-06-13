@@ -3,7 +3,7 @@
 Coding Boot Camp
 ---
 
-*last edited: Summer 2023*
+*last edited: Summer 2024*
 
 This short course is designed for students who are new to scientific research. The goal is to teach the tools that you will need to be successful as an undergraduate researcher. We are teaching this in four half-days over two weeks, with some assigned 'homework' to get your personal research environment setup between sessions. *Hopefully* developing a shared set of tools will help you establish yourselves as a 'cohort' of students who can work together on shared problems, even when your specific research goals vary.
 
