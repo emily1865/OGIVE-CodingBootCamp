@@ -12,5 +12,5 @@ dependencies:
     - scipy
     - pyproj
     - netCDF4
-    - sklearn
+    - scikit-learn
     - ipympl
