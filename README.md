@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnmorganmanos/CodingBootCamp/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liamkirkpatrick/CodingBootCamp/HEAD)
+
 
 Coding Boot Camp
 ---
